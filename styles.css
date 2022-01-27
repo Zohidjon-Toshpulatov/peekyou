@@ -1,0 +1,187 @@
+body{
+    background: #FBFEFF;
+}
+
+.color-blue{
+    color: #1A98D5;
+}
+
+.p-28{
+    padding: 28px;
+}
+.px-28{
+    padding: 0 27px;
+}
+
+.pb-20{
+    margin-bottom: 20px;
+}
+
+.mr-20{
+    margin-right: 20px;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.mb-32{
+    margin-bottom: 32px;
+}
+
+.rounded-5px{
+    border-radius: 5px;
+}
+
+.matched-info, 
+.public-records,
+.arrest-records,
+.phonebook,
+.facebook{
+    border: 2px solid #E9E9E9;
+}
+
+.matched-info-header,
+.public-records-header,
+.arrest-records-header,
+.phonebook-header,
+.facebook-header{
+    background-color:  #B0BABE;
+}
+
+.matched-info-heading,
+.public-records-heading,
+.phonebook-heading,
+.arrest-records-heading,
+.facebook-heading{
+    font-size: 20px;
+    line-height: 24px;
+    color: #001A25;
+}
+
+.matched-info-nav{
+    margin-top: 27px;
+    padding-bottom: 8px;
+    padding-left: 0;
+    border-bottom: 2px solid #828282;
+}
+
+.matched-info-nav li{
+    padding:7px 24px;
+    border-right: 1px solid #828282;
+}
+
+.matched-info-nav :last-child{
+    border-right: none;
+}
+
+.matched-info-navlink{
+    color: #828282;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+}
+
+.matched-infor-navlink> img{
+    margin-left: 16px !important;
+}
+
+.matched-info-navlink:hover{
+    color: #0D97D5;
+    text-decoration: underline;
+}
+
+
+.matched-info-single >div,
+.public-records-info-single >div,
+.phonebook-single-contact > div{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #828282;
+    box-sizing: border-box;
+}
+
+.matched-info-single-person-avatar{
+    width: 74px;
+    margin-right: 20px;
+}
+
+.public-records-single-person-avatar,
+.phonebook-single-contact-avatar{
+    width: 26px;
+    margin-right: 12px;
+}
+
+.mathed-info-single-person-name{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    color: #001A25;
+    margin-bottom: 6px;
+}
+
+.mathed-info-single-person-age{
+    font-size: 18px;
+    line-height: 22px;
+    color: orange;
+}
+
+
+
+.public-records-single-person-location,
+.arrest-records-single-person-location,
+.matched-info-single-person-location{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1A98D5;
+    margin-bottom: 6px;
+}
+
+.matched-info-single-person-desc,
+.public-records-single-person-desc,
+.arrest-records-single-person-desc{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #001A25;
+}
+
+.btn-full-report span{
+    padding-left: 8px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.btn-show-more{
+    font-size: 18px;
+}
+
+.phonebook-single-contact-detail{
+    font-size: 20px;
+    line-height: 100%;
+}
+
+.facebook-content{
+    margin-bottom: 28px;
+}
+
+.facebook-single-user-avatar{
+    width: 74px;
+    border-radius: 15px;
+    margin-right: 20px;
+}
+
+.facebook-single-user-name{
+    font-size: 20px;
+    line-height: 100%;
+}
+
+.facebook-single-user-name{
+    line-height: 100%;
+}
+
+
+
